@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head> <title> Ping Pong Game </title>
   <h1> Ping Pong Game </h1> </head>
