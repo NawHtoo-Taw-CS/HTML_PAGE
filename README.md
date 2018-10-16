@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title> Ping Pong Game </title>
+  <head> <title> Ping Pong Game </title> </head>
   <h1> Ping Pong Game </h1>
 <body>
   <h2> Best Ping Pong Game In The World </h2>
